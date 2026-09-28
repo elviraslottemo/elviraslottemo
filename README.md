@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**elviraslottemo/elviraslottemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <figure>
+      <div align="center">
+        <img src="./cv for real.png" alt="Bilde av CV 1" />
+      </div>
+      <hr />
+    </figure>
+    <figure>
+      <div align="center">
+        <img src="./cv for real2.png" alt="Bilde av CV 2" />
+      </div>
+      <hr />
+    </figure>
+    <figure>
+      <div align="center">
+        <img src="./cv for real 3.png" alt="Bilde av CV 3" />
+      </div>
+      <hr />
+    </figure>
+  </body>
+</html>
